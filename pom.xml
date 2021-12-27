@@ -19,10 +19,10 @@
       <plugin>
 		<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-surefire-plugin</artifactId>
-			<version>2.22.0</version>
+			<version>3.0.0-M5</version>
 			<configuration>
 				<suiteXmlFiles>
-					<suiteXmlFile>E:\Automation_Project_GitHub\Automation_POM\testng.xml</suiteXmlFile>
+					<suiteXmlFile>F:\Eclipse pgm wrkspace\Automation_POM\testng.xml</suiteXmlFile>
 				</suiteXmlFiles>
 			</configuration>
        </plugin>
